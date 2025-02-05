@@ -1,174 +1,316 @@
 {
+    "title": {
+        "text": {
+            "headline": "Línea de Tiempo de Eventos Históricos",
+            "text": "Evolución de políticas de planificación familiar en Colombia."
+        }
+    },
     "events": [
         {
-            "date": "1964",
-            "title": "ASCOFAME",
-            "text": "Introducción y legitimación de la PF en Colombia - 7 escuelas de medicina en todo el país - Capacitó a médicos en la prestación de servicios de PF - Definió normas para la prestación de servicios, e implementación de programas piloto de PF "
+            "start_date": {
+                "year": "1905-05-17 00:00:00"
+            },
+            "text": {
+                "headline": "ASCOFAME",
+                "text": "Introducción y legitimación de la PF en Colombia - 7 escuelas de medicina en todo el país - Capacitó a médicos en la prestación de servicios de PF - Definió normas para la prestación de servicios, e implementación de programas piloto de PF "
+            }
         },
         {
-            "date": "1965",
-            "title": "PROFAMILIA",
-            "text": "Comenzó ofreciendo píldoras y DIU y a medida que estaban disponibles en el mercado internacional fue incorporando casi todo tipo de métodos anticonceptivos."
+            "start_date": {
+                "year": "1905-05-18 00:00:00"
+            },
+            "text": {
+                "headline": "PROFAMILIA",
+                "text": "Comenzó ofreciendo píldoras y DIU y a medida que estaban disponibles en el mercado internacional fue incorporando casi todo tipo de métodos anticonceptivos."
+            }
         },
         {
-            "date": "1966",
-            "title": "USAID & GOBIERNO COLOMBIANO",
-            "text": "Acuerdo para promover capacitación en PF a médicos acerca de métodos para\nregular los altos niveles de fecundidad "
+            "start_date": {
+                "year": "1905-05-19 00:00:00"
+            },
+            "text": {
+                "headline": "USAID & GOBIERNO COLOMBIANO",
+                "text": "Acuerdo para promover capacitación en PF a médicos acerca de métodos para\nregular los altos niveles de fecundidad "
+            }
         },
         {
-            "date": "1969",
-            "title": "MINSALUD establece la División de Salud Materno Infantil",
-            "text": "El programa ofrecía píldoras y DIU y unos años después comenzó a ofrecer una gama más amplia de anticonceptivos.  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  A diferencia de Profamilia, el MINSALUD dio un enfoque altamente médico a la planificación familiar durante los primeros años, enfocándose en el riesgo de salud reproductiva de un nuevo embarazo, más que en el deseo manifiesto de la mujer de tener acceso a la anticoncepción\n"
+            "start_date": {
+                "year": "1905-05-22 00:00:00"
+            },
+            "text": {
+                "headline": "MINSALUD establece la División de Salud Materno Infantil",
+                "text": "El programa ofrecía píldoras y DIU y unos años después comenzó a ofrecer una gama más amplia de anticonceptivos.  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  A diferencia de Profamilia, el MINSALUD dio un enfoque altamente médico a la planificación familiar durante los primeros años, enfocándose en el riesgo de salud reproductiva de un nuevo embarazo, más que en el deseo manifiesto de la mujer de tener acceso a la anticoncepción\n"
+            }
         },
         {
-            "date": "1970",
-            "title": "PROFAMILIA introduce la vasectomía",
-            "text": NaN
+            "start_date": {
+                "year": "1905-05-23 00:00:00"
+            },
+            "text": {
+                "headline": "PROFAMILIA introduce la vasectomía",
+                "text": ""
+            }
         },
         {
-            "date": "1972",
-            "title": "PROFAMILIA introduce la esterilización femenina",
-            "text": "Y comienza a capacitar enfermeras para insertar DIUs"
+            "start_date": {
+                "year": "1905-05-25 00:00:00"
+            },
+            "text": {
+                "headline": "PROFAMILIA introduce la esterilización femenina",
+                "text": "Y comienza a capacitar enfermeras para insertar DIUs"
+            }
         },
         {
-            "date": "1976",
-            "title": "PROFAMILIA",
-            "text": "Estableció unidades móviles que expandieron los servicios de Anticoncepción Quirúrgica Voluntaria (AQV) a áreas rurales y sectores remotos\nde las áreas urbanas."
+            "start_date": {
+                "year": "1905-05-29 00:00:00"
+            },
+            "text": {
+                "headline": "PROFAMILIA",
+                "text": "Estableció unidades móviles que expandieron los servicios de Anticoncepción Quirúrgica Voluntaria (AQV) a áreas rurales y sectores remotos\nde las áreas urbanas."
+            }
         },
         {
-            "date": "1980",
-            "title": "Consolidación de programa de PF",
-            "text": "Profamilia apoyaba financieramente a clínicas en la mayoría de ciudades en los 32 Departamentos y posteriormente amplió sus servicios a 29 áreas más. La Distribución Comunitaria de Anticonceptivos (DCA) se había logrado implementar en las áreas rurales y en barrios urbanos marginales. El programa de mercadeo social de Profamilia trabajaba con suficientes ganancias para subsidiar otros elementos del programa. El MINSALUD era socio legítimo de la PF y ofrecía una gama de servicios a través de sus centros y puestos de salud a nivel nacional. \n"
+            "start_date": {
+                "year": "1905-06-02 00:00:00"
+            },
+            "text": {
+                "headline": "Consolidación de programa de PF",
+                "text": "Profamilia apoyaba financieramente a clínicas en la mayoría de ciudades en los 32 Departamentos y posteriormente amplió sus servicios a 29 áreas más. La Distribución Comunitaria de Anticonceptivos (DCA) se había logrado implementar en las áreas rurales y en barrios urbanos marginales. El programa de mercadeo social de Profamilia trabajaba con suficientes ganancias para subsidiar otros elementos del programa. El MINSALUD era socio legítimo de la PF y ofrecía una gama de servicios a través de sus centros y puestos de salud a nivel nacional. \n"
+            }
         },
         {
-            "date": "1984",
-            "title": "MINSALUD estableció normas y especificó la responsabilidad del estado para prestar servicios de PF — incluyendo la esterilización.",
-            "text": NaN
+            "start_date": {
+                "year": "1905-06-06 00:00:00"
+            },
+            "text": {
+                "headline": "MINSALUD estableció normas y especificó la responsabilidad del estado para prestar servicios de PF — incluyendo la esterilización.",
+                "text": ""
+            }
         },
         {
-            "date": "1985",
-            "title": "Profamilia modifica sus programas",
-            "text": "\n- La DCA se había vuelto menos costo-efectiva. \n- Profamilia combinó la distribución comunitaria y el mercadeo social en un programa al que llamó “mercadeo comunitario”, por medio del cual se vendían píldoras y condones con un enfoque más empresarial. \n- En un esfuerzo por lograr mayor auto-suficiencia, Profamilia inició el proceso de diversificar sus servicios para subsidiar servicios de PF para los pobres; estos servicios se enfocaban primordialmente en otros aspectos de salud reproductiva (ginecología, urología, exámenes de Papanicolaou, pruebas de embarazo, infertilidad e ITS), pero también incluían medicina general, pediatría y odontología.\n"
+            "start_date": {
+                "year": "1905-06-07 00:00:00"
+            },
+            "text": {
+                "headline": "Profamilia modifica sus programas",
+                "text": "\n- La DCA se había vuelto menos costo-efectiva. \n- Profamilia combinó la distribución comunitaria y el mercadeo social en un programa al que llamó “mercadeo comunitario”, por medio del cual se vendían píldoras y condones con un enfoque más empresarial. \n- En un esfuerzo por lograr mayor auto-suficiencia, Profamilia inició el proceso de diversificar sus servicios para subsidiar servicios de PF para los pobres; estos servicios se enfocaban primordialmente en otros aspectos de salud reproductiva (ginecología, urología, exámenes de Papanicolaou, pruebas de embarazo, infertilidad e ITS), pero también incluían medicina general, pediatría y odontología.\n"
+            }
         },
         {
-            "date": "1993",
-            "title": "Ley 100 de 1993 - “ley de reforma del sector salud” o “la ley para la reforma de la seguridad social”",
-            "text": "El gobierno asumió la responsabilidad de garantizar la prestación de servicios de PF"
+            "start_date": {
+                "year": "1905-06-15 00:00:00"
+            },
+            "text": {
+                "headline": "Ley 100 de 1993 - “ley de reforma del sector salud” o “la ley para la reforma de la seguridad social”",
+                "text": "El gobierno asumió la responsabilidad de garantizar la prestación de servicios de PF"
+            }
         },
         {
-            "date": "1997",
-            "title": "Colombia se \"gradúa\" de la asistencia de USAID para programas de población",
-            "text": "Con una TGF de 2.9 y una TPA de 72 por ciento –  Se da fin a la asistencia financiera de USAID para su programa de PF en Colombia - No hubo mayor porblema porque Profamilia ya era autosuficiente"
+            "start_date": {
+                "year": "1905-06-19 00:00:00"
+            },
+            "text": {
+                "headline": "Colombia se \"gradúa\" de la asistencia de USAID para programas de población",
+                "text": "Con una TGF de 2.9 y una TPA de 72 por ciento –  Se da fin a la asistencia financiera de USAID para su programa de PF en Colombia - No hubo mayor porblema porque Profamilia ya era autosuficiente"
+            }
         },
         {
-            "date": "1998",
-            "title": "La International Planned Parenthood Federation (IPPF) escoge a Colombia como modelo para introducir la AE en la región de ALC",
-            "text": "Se capacitó a personal de Profamilia en el Régimen Yuzpe (método anticonceptivo de emergencia que consiste en tomar dos dosis de anticonceptivos orales. Se debe tomar lo antes posible después de una relación sexual sin protección, idealmente dentro de las 72 horas) para AE."
+            "start_date": {
+                "year": "1905-06-20 00:00:00"
+            },
+            "text": {
+                "headline": "La International Planned Parenthood Federation (IPPF) escoge a Colombia como modelo para introducir la AE en la región de ALC",
+                "text": "Se capacitó a personal de Profamilia en el Régimen Yuzpe (método anticonceptivo de emergencia que consiste en tomar dos dosis de anticonceptivos orales. Se debe tomar lo antes posible después de una relación sexual sin protección, idealmente dentro de las 72 horas) para AE."
+            }
         },
         {
-            "date": "2000",
-            "title": "INVIMA aprueba el Postinor-2 ",
-            "text": "Postinor-2, también conocida como “pastilla del día después” - es un tipo de anticoncepción de emergencia (AE)"
+            "start_date": {
+                "year": "1905-06-22 00:00:00"
+            },
+            "text": {
+                "headline": "INVIMA aprueba el Postinor-2 ",
+                "text": "Postinor-2, también conocida como “pastilla del día después” - es un tipo de anticoncepción de emergencia (AE)"
+            }
         },
         {
-            "date": "2003",
-            "title": "Ministerio de Protección Social formuló la Política Nacional de Salud Sexual y Reproductiva (SSR)",
-            "text": "Se desarrollaron principios y estrategias que sirvieron de guía para abordar varias intervenciones prioritarias de SSR como la maternidad segura, PF, SSR de los adolescentes, cáncer cervical, ITS, y VIH-SIDA"
+            "start_date": {
+                "year": "1905-06-25 00:00:00"
+            },
+            "text": {
+                "headline": "Ministerio de Protección Social formuló la Política Nacional de Salud Sexual y Reproductiva (SSR)",
+                "text": "Se desarrollaron principios y estrategias que sirvieron de guía para abordar varias intervenciones prioritarias de SSR como la maternidad segura, PF, SSR de los adolescentes, cáncer cervical, ITS, y VIH-SIDA"
+            }
         },
         {
-            "date": "2006",
-            "title": "Profamilia recibió más de US$13 millones de dólares en ayuda para prestar servicios de Salud Reproductiva a personas desplazadas del Plan Colombia",
-            "text": "Debido a que esta población de escasos recursos económicos y bajo nivel educativo tiene tan poco conocimiento y experiencia con la PF, Profamilia retomó las mismas estrategias que había utilizado a principios de los años 1970 para llegar a poblaciones con características similares.\n"
+            "start_date": {
+                "year": "1905-06-28 00:00:00"
+            },
+            "text": {
+                "headline": "Profamilia recibió más de US$13 millones de dólares en ayuda para prestar servicios de Salud Reproductiva a personas desplazadas del Plan Colombia",
+                "text": "Debido a que esta población de escasos recursos económicos y bajo nivel educativo tiene tan poco conocimiento y experiencia con la PF, Profamilia retomó las mismas estrategias que había utilizado a principios de los años 1970 para llegar a poblaciones con características similares.\n"
+            }
         },
         {
-            "date": "2006",
-            "title": "Sentencia C-355 de 2006 - Despenalización del aborto bajo 3 condiciones",
-            "text": "(1) cuando el embarazo es resultado de una violación, incesto, o inseminación o implante no consensuado de un óvulo fertilizado; (2) cuando la salud o la vida de la mujer embarazada está en peligro; y (3) cuando daños o malformaciones fetales severas imposibilitan la vida extrauterina."
+            "start_date": {
+                "year": "1905-06-28 00:00:00"
+            },
+            "text": {
+                "headline": "Sentencia C-355 de 2006 - Despenalización del aborto bajo 3 condiciones",
+                "text": "(1) cuando el embarazo es resultado de una violación, incesto, o inseminación o implante no consensuado de un óvulo fertilizado; (2) cuando la salud o la vida de la mujer embarazada está en peligro; y (3) cuando daños o malformaciones fetales severas imposibilitan la vida extrauterina."
+            }
         },
         {
-            "date": "2007",
-            "title": "Decreto 3039 de 2007",
-            "text": "Se adopta el Plan Nacional de Salud Pública 2007-2010, debe ser cumplido por los regímenes contributivo y subsidiado, las entidades obligadas a compensar, las entidades responsables de los regímenes especiales y de excepción, y los prestadores de servicios de salud"
+            "start_date": {
+                "year": "1905-06-29 00:00:00"
+            },
+            "text": {
+                "headline": "Decreto 3039 de 2007",
+                "text": "Se adopta el Plan Nacional de Salud Pública 2007-2010, debe ser cumplido por los regímenes contributivo y subsidiado, las entidades obligadas a compensar, las entidades responsables de los regímenes especiales y de excepción, y los prestadores de servicios de salud"
+            }
         },
         {
-            "date": "2007",
-            "title": "Ley 1122 de 2007",
-            "text": "Se introdujeron modificaciones al Sistema General de Seguridad Social en Salud. En su artículo 33, literal h), se establece la obligación de garantizar la prestación de servicios de salud sexual y reproductiva, incluyendo la planificación familiar, como parte integral de la atención en salud."
+            "start_date": {
+                "year": "1905-06-29 00:00:00"
+            },
+            "text": {
+                "headline": "Ley 1122 de 2007",
+                "text": "Se introdujeron modificaciones al Sistema General de Seguridad Social en Salud. En su artículo 33, literal h), se establece la obligación de garantizar la prestación de servicios de salud sexual y reproductiva, incluyendo la planificación familiar, como parte integral de la atención en salud."
+            }
         },
         {
-            "date": "2008",
-            "title": "Resolución 769 de 2008",
-            "text": "Norma Técnica para la Atención en Planificación Familiar a Hombres y Mujeres, en línea con el Decreto 3039 de 2007. En este documento se detallan los métodos anticonceptivos aprobados y las estrategias de acceso, así como las responsabilidades de los prestadores de salud\n\nMétodos incluidos en el POS: Según la Resolución 769 de 2008, el Consejo Nacional de Seguridad Social en Salud (CNSSS) aprobó la inclusión de algunos métodos temporales de anticoncepción en el Plan de Beneficios del Régimen Contributivo y Subsidiado sin aumentar la Unidad de Pago por Capitación (UPC)"
+            "start_date": {
+                "year": "1905-06-30 00:00:00"
+            },
+            "text": {
+                "headline": "Resolución 769 de 2008",
+                "text": "Norma Técnica para la Atención en Planificación Familiar a Hombres y Mujeres, en línea con el Decreto 3039 de 2007. En este documento se detallan los métodos anticonceptivos aprobados y las estrategias de acceso, así como las responsabilidades de los prestadores de salud\n\nMétodos incluidos en el POS: Según la Resolución 769 de 2008, el Consejo Nacional de Seguridad Social en Salud (CNSSS) aprobó la inclusión de algunos métodos temporales de anticoncepción en el Plan de Beneficios del Régimen Contributivo y Subsidiado sin aumentar la Unidad de Pago por Capitación (UPC)"
+            }
         },
         {
-            "date": "2008",
-            "title": "Resolución 1973 de 2008 - \"Norma Técnica para la Atención en Planificación Familiar a Hombres y Mujeres\"",
-            "text": "Esta modificación se centra en ajustar y actualizar procedimientos relacionados con la atención en planificación familiar. ———  Entre los cambios introducidos, se destaca la especificación de que la consulta de planificación familiar debe ser realizada por un médico o enfermero debidamente capacitado en el tema. Además, se detallan procedimientos para la aplicación y retiro de dispositivos intrauterinos (DIU), incluyendo técnicas específicas para su inserción y extracción. ———  Estas modificaciones buscan garantizar una atención integral y de calidad en servicios de planificación familiar, asegurando que hombres y mujeres en edad fértil reciban información adecuada, acceso a métodos anticonceptivos seguros y efectivos, y seguimiento oportuno en el uso de estos métodos. \n"
+            "start_date": {
+                "year": "1905-06-30 00:00:00"
+            },
+            "text": {
+                "headline": "Resolución 1973 de 2008 - \"Norma Técnica para la Atención en Planificación Familiar a Hombres y Mujeres\"",
+                "text": "Esta modificación se centra en ajustar y actualizar procedimientos relacionados con la atención en planificación familiar. ———  Entre los cambios introducidos, se destaca la especificación de que la consulta de planificación familiar debe ser realizada por un médico o enfermero debidamente capacitado en el tema. Además, se detallan procedimientos para la aplicación y retiro de dispositivos intrauterinos (DIU), incluyendo técnicas específicas para su inserción y extracción. ———  Estas modificaciones buscan garantizar una atención integral y de calidad en servicios de planificación familiar, asegurando que hombres y mujeres en edad fértil reciban información adecuada, acceso a métodos anticonceptivos seguros y efectivos, y seguimiento oportuno en el uso de estos métodos. \n"
+            }
         },
         {
-            "date": "2010",
-            "title": "Ley 1412 de 2010",
-            "text": "Autoriza la realización gratuita y promueve la ligadura de conductos deferentes (vasectomía) y la ligadura de trompas de Falopio como formas de fomentar la paternidad y maternidad responsables. Establece que el Sistema de Seguridad Social en Salud cubrirá estos procedimientos sin costo para quienes los soliciten."
+            "start_date": {
+                "year": "1905-07-02 00:00:00"
+            },
+            "text": {
+                "headline": "Ley 1412 de 2010",
+                "text": "Autoriza la realización gratuita y promueve la ligadura de conductos deferentes (vasectomía) y la ligadura de trompas de Falopio como formas de fomentar la paternidad y maternidad responsables. Establece que el Sistema de Seguridad Social en Salud cubrirá estos procedimientos sin costo para quienes los soliciten."
+            }
         },
         {
-            "date": "2011",
-            "title": "Ley 1438 de 2011",
-            "text": "Esta ley reforma el Sistema General de Seguridad Social en Salud y enfatiza la Atención Primaria en Salud como estrategia central:\n\n- Promoción de la salud y prevención de la enfermedad: La ley orienta el sistema hacia acciones de promoción y prevención, lo que incluye la planificación familiar y el acceso a métodos anticonceptivos.\n\n- Universalidad y equidad: Se busca garantizar que todos los residentes en Colombia, sin discriminación, tengan acceso a servicios de salud, incluyendo aquellos relacionados con la salud sexual y reproductiva."
+            "start_date": {
+                "year": "1905-07-03 00:00:00"
+            },
+            "text": {
+                "headline": "Ley 1438 de 2011",
+                "text": "Esta ley reforma el Sistema General de Seguridad Social en Salud y enfatiza la Atención Primaria en Salud como estrategia central:\n\n- Promoción de la salud y prevención de la enfermedad: La ley orienta el sistema hacia acciones de promoción y prevención, lo que incluye la planificación familiar y el acceso a métodos anticonceptivos.\n\n- Universalidad y equidad: Se busca garantizar que todos los residentes en Colombia, sin discriminación, tengan acceso a servicios de salud, incluyendo aquellos relacionados con la salud sexual y reproductiva."
+            }
         },
         {
-            "date": "2011",
-            "title": "Política Nacional de Sexualidad, Derechos Sexuales y Derechos Reproductivos de 2011",
-            "text": "Se promueve la disponibilidad de métodos anticonceptivos en todo el sistema de salud, asegurando que todas las personas puedan acceder a ellos sin discriminación ni barreras económicas o culturales.\nSe establece la provisión de anticonceptivos como un derecho fundamental en el marco de la salud pública y la autonomía reproductiva.\nSe busca garantizar el acceso a métodos anticonceptivos modernos dentro del Sistema General de Seguridad Social en Salud (SGSSS)."
+            "start_date": {
+                "year": "1905-07-03 00:00:00"
+            },
+            "text": {
+                "headline": "Política Nacional de Sexualidad, Derechos Sexuales y Derechos Reproductivos de 2011",
+                "text": "Se promueve la disponibilidad de métodos anticonceptivos en todo el sistema de salud, asegurando que todas las personas puedan acceder a ellos sin discriminación ni barreras económicas o culturales.\nSe establece la provisión de anticonceptivos como un derecho fundamental en el marco de la salud pública y la autonomía reproductiva.\nSe busca garantizar el acceso a métodos anticonceptivos modernos dentro del Sistema General de Seguridad Social en Salud (SGSSS)."
+            }
         },
         {
-            "date": "2012",
-            "title": "Resolución 459 de 2012 - \"Protocolo y Modelo de Atención Integral en Salud para Víctimas de Violencia Sexual\"",
-            "text": "Nuevos lineamientos para la atención de víctimas, incluyendo la provisión de anticoncepción de emergencia y garantizando el acceso a la Interrupción Voluntaria del Embarazo (IVE) en los casos permitidos por la ley. ---- Anticoncepción de emergencia- El protocolo indica que se debe asegurar la provisión de anticoncepción de emergencia a las víctimas que consulten dentro de las primeras 120 horas posteriores a la agresión sexual, para prevenir embarazos no deseados. ---- Interrupción Voluntaria del Embarazo (IVE) - Se garantiza el acceso a la IVE en los casos permitidos por la ley colombiana, especialmente cuando el embarazo es resultado de una conducta constitutiva de violencia sexual."
+            "start_date": {
+                "year": "1905-07-04 00:00:00"
+            },
+            "text": {
+                "headline": "Resolución 459 de 2012 - \"Protocolo y Modelo de Atención Integral en Salud para Víctimas de Violencia Sexual\"",
+                "text": "Nuevos lineamientos para la atención de víctimas, incluyendo la provisión de anticoncepción de emergencia y garantizando el acceso a la Interrupción Voluntaria del Embarazo (IVE) en los casos permitidos por la ley. ---- Anticoncepción de emergencia- El protocolo indica que se debe asegurar la provisión de anticoncepción de emergencia a las víctimas que consulten dentro de las primeras 120 horas posteriores a la agresión sexual, para prevenir embarazos no deseados. ---- Interrupción Voluntaria del Embarazo (IVE) - Se garantiza el acceso a la IVE en los casos permitidos por la ley colombiana, especialmente cuando el embarazo es resultado de una conducta constitutiva de violencia sexual."
+            }
         },
         {
-            "date": "2013",
-            "title": "Resolución 0459 de 2013",
-            "text": "Esta resolución tiene como objetivo la definición, aclaración y actualización integral del POS. En relación con los métodos anticonceptivos, se incluyen los siguientes:"
+            "start_date": {
+                "year": "1905-07-05 00:00:00"
+            },
+            "text": {
+                "headline": "Resolución 0459 de 2013",
+                "text": "Esta resolución tiene como objetivo la definición, aclaración y actualización integral del POS. En relación con los métodos anticonceptivos, se incluyen los siguientes:"
+            }
         },
         {
-            "date": "2013",
-            "title": "Circular 03 de 2013",
-            "text": "Emitida por la Comisión Nacional de Precios de Medicamentos y Dispositivos Médicos (CNPMDM) de Colombia, establece la metodología para la aplicación del régimen de control directo de precios de medicamentos en el país. Esta metodología se basa en la referenciación internacional de precios, utilizando el percentil 25 de los precios de 17 países seleccionados como referencia"
+            "start_date": {
+                "year": "1905-07-05 00:00:00"
+            },
+            "text": {
+                "headline": "Circular 03 de 2013",
+                "text": "Emitida por la Comisión Nacional de Precios de Medicamentos y Dispositivos Médicos (CNPMDM) de Colombia, establece la metodología para la aplicación del régimen de control directo de precios de medicamentos en el país. Esta metodología se basa en la referenciación internacional de precios, utilizando el percentil 25 de los precios de 17 países seleccionados como referencia"
+            }
         },
         {
-            "date": "2014",
-            "title": "Resolución 5926 de 2014",
-            "text": "La Resolución 5926 de 2014, emitida por el Ministerio de Salud y Protección Social de Colombia, ajusta el Anexo 01 de la Resolución 5521 de 2013, actualizando el listado de medicamentos del Plan Obligatorio de Salud (POS)"
+            "start_date": {
+                "year": "1905-07-06 00:00:00"
+            },
+            "text": {
+                "headline": "Resolución 5926 de 2014",
+                "text": "La Resolución 5926 de 2014, emitida por el Ministerio de Salud y Protección Social de Colombia, ajusta el Anexo 01 de la Resolución 5521 de 2013, actualizando el listado de medicamentos del Plan Obligatorio de Salud (POS)"
+            }
         },
         {
-            "date": "2015",
-            "title": "Encuesta Nacional de Demografía y Salud (ENDS) 2015",
-            "text": NaN
+            "start_date": {
+                "year": "1905-07-07 00:00:00"
+            },
+            "text": {
+                "headline": "Encuesta Nacional de Demografía y Salud (ENDS) 2015",
+                "text": ""
+            }
         },
         {
-            "date": "2017",
-            "title": "Resolución 1904 de 2017",
-            "text": "La Resolución 1904 de 2017, emitida por el Ministerio de Salud y Protección Social de Colombia, tiene como objetivo garantizar que las personas con discapacidad accedan a información adecuada y suficiente sobre sus derechos sexuales y reproductivos. Esta normativa establece las obligaciones para los integrantes del Sistema General de Seguridad Social en Salud (SGSSS).\n\nSe deberá informar a las personas con discapacidad y en los casos que corresponda a las personas de apoyo, de otros procedimientos de anticoncepción no definitivos, como alternativa a los procesos de esterilización definitiva"
+            "start_date": {
+                "year": "1905-07-09 00:00:00"
+            },
+            "text": {
+                "headline": "Resolución 1904 de 2017",
+                "text": "La Resolución 1904 de 2017, emitida por el Ministerio de Salud y Protección Social de Colombia, tiene como objetivo garantizar que las personas con discapacidad accedan a información adecuada y suficiente sobre sus derechos sexuales y reproductivos. Esta normativa establece las obligaciones para los integrantes del Sistema General de Seguridad Social en Salud (SGSSS).\n\nSe deberá informar a las personas con discapacidad y en los casos que corresponda a las personas de apoyo, de otros procedimientos de anticoncepción no definitivos, como alternativa a los procesos de esterilización definitiva"
+            }
         },
         {
-            "date": "2018",
-            "title": "Circular 07 de 2018",
-            "text": "Incorporó 902 medicamentos al régimen de control directo de precios ——— Actualizó el precio máximo de venta para 238 medicamentos, entre ellos anticonceptivos y antidepresivos. La Circular estableció márgenes adicionales para las Instituciones Prestadoras de Servicios de Salud (IPS), permitiendo adicionar un porcentaje hasta del 7% para presentaciones comerciales con valor menor o igual a $1.000.000, y hasta del 3.5% para aquellas con valor igual o superior a $1.000.000."
+            "start_date": {
+                "year": "1905-07-10 00:00:00"
+            },
+            "text": {
+                "headline": "Circular 07 de 2018",
+                "text": "Incorporó 902 medicamentos al régimen de control directo de precios ——— Actualizó el precio máximo de venta para 238 medicamentos, entre ellos anticonceptivos y antidepresivos. La Circular estableció márgenes adicionales para las Instituciones Prestadoras de Servicios de Salud (IPS), permitiendo adicionar un porcentaje hasta del 7% para presentaciones comerciales con valor menor o igual a $1.000.000, y hasta del 3.5% para aquellas con valor igual o superior a $1.000.000."
+            }
         },
         {
-            "date": "2018",
-            "title": "Resolución 3280 de 2018",
-            "text": "La Resolución 3280 de 2018, emitida por el Ministerio de Salud y Protección Social de Colombia, adopta los lineamientos técnicos y operativos de la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la Población Materno Perinatal"
+            "start_date": {
+                "year": "1905-07-10 00:00:00"
+            },
+            "text": {
+                "headline": "Resolución 3280 de 2018",
+                "text": "La Resolución 3280 de 2018, emitida por el Ministerio de Salud y Protección Social de Colombia, adopta los lineamientos técnicos y operativos de la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la Población Materno Perinatal"
+            }
         },
         {
-            "date": "2019",
-            "title": "Ley 1953 de 2019",
-            "text": "Establece los lineamientos para el desarrollo de la política pública de prevención de la infertilidad y su tratamiento dentro de los parámetros de salud reproductiva en Colombia ———  Esta ley se centra principalmente en la prevención y tratamiento de la infertilidad, pero también aborda aspectos relacionados con los derechos sexuales y reproductivos ——— Promueve la educación sexual y reproductiva, incluyendo información sobre infertilidad y su abordaje terapéutico, así como hábitos de vida saludables que actúan como factores protectores ——— Contempla el desarrollo de estrategias de promoción y prevención de la infertilidad y las enfermedades asociadas, así como el fomento de la investigación científica sobre las diversas causas de la infertilidad y los tratamientos que podrían coadyuvar a prevenirla, tratarla y curarla. "
+            "start_date": {
+                "year": "1905-07-11 00:00:00"
+            },
+            "text": {
+                "headline": "Ley 1953 de 2019",
+                "text": "Establece los lineamientos para el desarrollo de la política pública de prevención de la infertilidad y su tratamiento dentro de los parámetros de salud reproductiva en Colombia ———  Esta ley se centra principalmente en la prevención y tratamiento de la infertilidad, pero también aborda aspectos relacionados con los derechos sexuales y reproductivos ——— Promueve la educación sexual y reproductiva, incluyendo información sobre infertilidad y su abordaje terapéutico, así como hábitos de vida saludables que actúan como factores protectores ——— Contempla el desarrollo de estrategias de promoción y prevención de la infertilidad y las enfermedades asociadas, así como el fomento de la investigación científica sobre las diversas causas de la infertilidad y los tratamientos que podrían coadyuvar a prevenirla, tratarla y curarla. "
+            }
         },
         {
-            "date": "2022",
-            "title": "Sentencia C-055 de 2022",
-            "text": "La Corte Constitucional amplió las condiciones para la interrupción voluntaria del embarazo, despenalizándolo hasta la semana 24 de gestación sin necesidad de cumplir con las causales establecidas previamente. Después de este periodo, se mantienen vigentes las tres causales de la Sentencia C-355 de 2006 sin límite de edad gestacional. "
+            "start_date": {
+                "year": "1905-07-14 00:00:00"
+            },
+            "text": {
+                "headline": "Sentencia C-055 de 2022",
+                "text": "La Corte Constitucional amplió las condiciones para la interrupción voluntaria del embarazo, despenalizándolo hasta la semana 24 de gestación sin necesidad de cumplir con las causales establecidas previamente. Después de este periodo, se mantienen vigentes las tres causales de la Sentencia C-355 de 2006 sin límite de edad gestacional. "
+            }
         }
     ]
 }
